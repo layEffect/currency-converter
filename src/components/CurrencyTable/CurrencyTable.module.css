@@ -1,0 +1,27 @@
+.currencyTable {
+  padding-top: 10px;
+  margin-top: 5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.courseTable {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.courseTable th,
+.courseTable td {
+  padding: 7px 0;
+  text-align: center;
+}
+
+.courseTable th {
+  background-color: #2f75c06b;
+}
+
+.courseTable td {
+  font-weight: 500;
+  border-bottom: 1px solid #2f75c06b;
+}

@@ -1,0 +1,29 @@
+.currencySelect {
+  margin: 20px;
+  position: relative;
+}
+.title {
+  font-size: 25px;
+  margin-bottom: 10px;
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+.currencyAmount {
+  font-size: 30px;
+  border-radius: 5px;
+  border: 1px, solid, #a8c5e5;
+  outline: none;
+  padding: 5px;
+}
+.currency {
+  font-size: 20px;
+  border: none;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: #a8c5e5;
+  padding: 11px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  outline: none;
+}

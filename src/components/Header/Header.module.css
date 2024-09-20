@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Neucha&display=swap");
+
+.headerWrapper {
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+  font-family: "Neucha", cursive;
+  font-size: 50px;
+}
